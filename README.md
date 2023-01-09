@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **anything related to NLP**
 
-- 📫 How to reach me **ahmedkhalilboulahia@gmail.com**
+- 📫 How to reach me: **ahmedkhalilboulahia@gmail.com**
 
-- 📝 ML Blog **https://lncwithahmed.blogspot.com/**
+- 📝 ML Blog: **https://lncwithahmed.blogspot.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
