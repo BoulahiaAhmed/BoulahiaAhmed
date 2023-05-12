@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Boulahia</h1>
-<h3 align="center">Data Scientist | NLP Enthusiast</h3>
+<h3 align="center">Data Scientist | NLP engineer</h3>
 
 - 🌱 I’m currently learning **how to Build a Modern Python Applications on AWS**
 
